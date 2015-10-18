@@ -20,4 +20,6 @@ class Memo < Post
     return @text.unshift(time_string)
   end
 
+  #def
+
 end
